@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "username": "meriem",
+      "email": "meriem@gmail.com",
+      "password": "meriem",
+      "cpassword": "meriem",
+      "id": 1
+    },
+    {
+      "username": "ahouzi",
+      "email": "ahouzi@gmail.com",
+      "password": "ahouzi",
+      "cpassword": "ahouzi",
+      "id": 2
+    },
+    {
+      "username": "mariam",
+      "email": "mariam@gmail.com",
+      "password": "mariam",
+      "cpassword": "mariam",
+      "id": 3
+    },
+    {
+      "username": "MERIEM AHOUZI",
+      "email": "meriem@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "id": 4
+    },
+    {
+      "username": "MERIEM AHOUZI",
+      "email": "badro.@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "id": 5
+    },
+    {
+      "username": "Meriem",
+      "email": "meriem.ahouzi90@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "id": 6
+    },
+    {
+      "username": "MERIEM AHOUZI",
+      "email": "ahouzi.meriem@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "id": 7
+    },
+    {
+      "username": "MERIEM AHOUZI",
+      "email": "meriem.ahouzi90@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "id": 8
+    },
+    {
+      "username": "MERIEM AHOUZI",
+      "email": "ahouzi.meriem@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "id": 9
+    },
+    {
+      "username": "Meriem",
+      "email": "meriem.ahouzi90@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "id": 10
+    },
+    {
+      "username": "MERIEM AHOUZI",
+      "email": "mariam@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "id": 11
+    },
+    {
+      "username": "MERIEM AHOUZI",
+      "email": "meriem.ahouzi90@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "id": 12
+    }
+  ]
+}

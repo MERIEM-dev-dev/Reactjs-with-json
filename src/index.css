@@ -1,0 +1,137 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-size: 120%;
+  background-image: url("./image/Background.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  background-attachment: fixed;
+  color: white !important;
+}
+
+.header {
+  width: 30%;
+  margin: 50px auto 0px;
+  color: rgb(128, 85, 85);
+  background-color: hsl(0deg 0% 88% / 22%);
+  box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+  text-align: center;
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+  padding: 20px;
+  color: white;
+}
+form,
+.content {
+  width: 30%;
+  margin: 0px auto;
+  padding: 20px;
+  background-color: hsl(0deg 0% 88% / 22%);
+  backdrop-filter: blur(5px);
+  box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+  border-radius: 0px 0px 10px 10px;
+}
+.input-group {
+  margin: 10px 0px 10px 0px;
+}
+
+.input-group label {
+  display: block;
+  text-align: left;
+  margin: 3px;
+  color: white;
+}
+
+.input-group input {
+  height: 30px;
+  width: 93%;
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  background-color: #f8f8f86e;
+}
+
+.btn {
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background: rgb(76 175 80 / 50%);
+  border: none;
+  border-radius: 5px;
+}
+form p {
+  color: white;
+}
+form a {
+  color: rgb(199, 137, 21);
+}
+.error {
+  width: 92%;
+  margin: 0px auto;
+  padding: 10px;
+  border: 1px solid #a94442;
+  color: #000000;
+  background: #bb1b1b;
+  border-radius: 5px;
+  text-align: left;
+}
+
+
+.success {
+  color: #3c763d;
+  background: #000000;
+  border: 1px solid #3c763d;
+  margin-bottom: 20px;
+}
+
+.topnav {
+  background: rgb(70, 183, 196);
+  background: linear-gradient(
+    90deg,
+    rgba(70, 183, 196, 1) 0%,
+    rgba(105, 179, 223, 1) 41%,
+    rgba(181, 91, 230, 1) 100%
+  );
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 0;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: flex;
+  transition: 0.5s;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+  padding-left: 25px;
+  transition: 0.5s;
+}
+
+.topnav a.active {
+  background-color: #030303;
+  color: black;
+}
+.menulo {
+  display: block;
+  float: right;
+}
+.menulo a.active {
+  background-color: black;
+}
+
+.menulo a.lactive {
+  background-color: red;
+}
